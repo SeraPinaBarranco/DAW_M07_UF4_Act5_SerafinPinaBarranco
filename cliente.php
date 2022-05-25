@@ -80,7 +80,7 @@
                                     
                                 }
                         }else{
-                            echo "ss";
+                            echo "";
                         };
                     ?>
                     </tbody>
